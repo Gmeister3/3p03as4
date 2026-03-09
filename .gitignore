@@ -1,0 +1,5 @@
+outputs/
+*.class
+answers.aux
+answers.log
+answers.pdf
